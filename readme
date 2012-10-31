@@ -1,0 +1,1 @@
+An HTML page with a form on it, and some javascript to tell you what the character code of the last character entered into the text box in the form is. Uses jQuery.
